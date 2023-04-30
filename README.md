@@ -2,10 +2,9 @@
 
 ## Dapp Demo 기본 정보
 
-Web Demo URL : https://nft.monstercoders.io (메타마스크 설치 필요) <br />
+Web Demo URL : https://lazy-mint-fe.vercel.app/ <br />
 Contract : https://goerli.etherscan.io/address/0x5a5eb29B037fA4b56D121e2E73D642d544B5Dce6#code <br />
-Contract Source : https://github.com/BlockMonkeys/Nft_MarketPlace_SC <br />
-Front-End Source : https://github.com/BlockMonkeys/Nft_MarketPlace_FE <br />
+Front-End Source : https://github.com/blockmonkey1992/Lazy-mint_FE <br />
 
 
 
@@ -22,8 +21,6 @@ Front-End Source : https://github.com/BlockMonkeys/Nft_MarketPlace_FE <br />
 - Javascript & React - Client Side
 - Nodejs(Express) - Server Side
 - MongoDB - NoSQL DB
-
-
 
 ## Application Architecture
 
